@@ -32,6 +32,9 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
   - Original Data
   - Prepared Data
 ### 03. Scripts
+### 04. Analysis
+  - Visualizations
+
 
 ## Dataset Information
 - **Source:** This dataset was externally sourced from the [Berlin Police](https://www.berlin.de/polizei/), which publish the [“Berlin Crime Atlas”](https://www.berlin.de/polizei/service/kriminalitaetsatlas/) every two years, a report on the small-scale distribution of crime in Berlin. This publicly available data was then collected and curated by Danil Zyryanov on [Kaggle](https://www.kaggle.com/datasets/danilzyryanov/crime-in-berlin-2012-2019/data), who translated the original report and united information pertaining to multiple years in one single dataset (originally, the information was divided by year).
