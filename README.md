@@ -35,11 +35,20 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 ### 04. Analysis
   - Visualizations
 
-
 ## Dataset Information
-- **Source:**
-  - The Berlin crimes dataset was externally sourced from the [Berlin Police](https://www.berlin.de/polizei/), which publish the [“Berlin Crime Atlas”](https://www.berlin.de/polizei/service/kriminalitaetsatlas/) every two years, a report on the small-scale distribution of crime in Berlin. This publicly available data was then collected and curated by Danil Zyryanov on [Kaggle](https://www.kaggle.com/datasets/danilzyryanov/crime-in-berlin-2012-2019/data), who translated the original report and united information pertaining to multiple years in one single dataset (originally, the information was divided by year). The time series data is a transformed file from the same dataset.
-  - The Berlin Districts map shapefile was sourced from [ODIS - Open Data Informationsstelle Berlin](https://odis-berlin.de/) through this [link](https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/).
-- **Contents:** The dataset contains information about small-scale crime in the city of Berlin, divided by districts and locations, from 2012 to 2019. It has 1200 rows and 20 columns (variables): Year, District, Code, Location, Robbery, Street_robbery, Injury, Agg_assault, Threat, Theft, Car, From_car, Bike, Burglary, Fire, Arson, Damage, Graffiti, Drugs and Local.
-- **Data Size:** 124.093 bytes.
+### - Source:###
+The dataset used in this project combines data from multiple reliable sources:
+  - **Berlin Crimes Dataset:** Originally published by the [Berlin Police](https://www.berlin.de/polizei/) in their biennial [“Berlin Crime Atlas”](https://www.berlin.de/polizei/service/kriminalitaetsatlas/), this dataset provides detailed insights into the small-scale distribution of crime in Berlin. The publicly available data was curated and consolidated into a single dataset by Danil Zyryanov on [Kaggle](https://www.kaggle.com/datasets/danilzyryanov/crime-in-berlin-2012-2019/data). The dataset includes translations and aggregation of yearly crime reports into a unified time series format.
+  - **Berlin District Map Shapefiles:** Geographic shapefiles of Berlin districts were sourced from [ODIS - Open Data Informationsstelle Berlin](https://odis-berlin.de/) [dataset link](https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/) for Python-based geospatial analysis. Additional shapefiles for Tableau visualizations were retrieved from [GitHub](https://github.com/ljwolf/geopython/blob/master/data/berlin-neighbourhoods.geojson), providing a more granular view of Berlin’s neighborhoods.
+
+### - Contents###
+The dataset captures small-scale crime statistics across Berlin districts from 2012 to 2019. It comprises:
+  **- Rows:** 1,200
+  **- Columns:** 20, representing crime types and related information, such as:
+  **- Temporal:** Year
+  **- Spatial:** District, Code, Location
+  **- Crime Categories:** Robbery, Street Robbery, Injury, Aggressive Assault, Threat, Theft, Car Theft, Theft from Car, Bike Theft, Burglary, Fire, Arson, Damage, Graffiti, Drugs, and Local.
+  
+### - Data Size###
+The dataset file is 124,093 bytes.
 
