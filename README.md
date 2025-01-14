@@ -28,6 +28,7 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 ## Folders
 ### 01. Project Management
   - Project Brief
+  - Project Document
 ### 02. Data
   - Original Data
   - Prepared Data
