@@ -34,6 +34,8 @@ This project was completed as part of the CareerFoundry Data Analytics Program a
 ### 03. Scripts
 ### 04. Analysis
   - Visualizations
+### 05. Sent to the client
+  - Reports
 
 ## Dataset Information
 ### Source:
@@ -51,4 +53,7 @@ The dataset captures small-scale crime statistics across Berlin districts from 2
   
 ### Data Size
 The dataset file is 124,093 bytes.
+
+## Tableau Presentation
+I presented my analysis, findings and recommendations on Tableau, which can be seen [here](https://public.tableau.com/views/Task6_7_-FinalDashboard/FinalPresentation?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
