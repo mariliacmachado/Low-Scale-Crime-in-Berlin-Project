@@ -55,5 +55,5 @@ The dataset captures small-scale crime statistics across Berlin districts from 2
 The dataset file is 124,093 bytes.
 
 ## Tableau Presentation
-I presented my analysis, findings and recommendations on Tableau, which can be seen [here](https://public.tableau.com/views/Task6_7_-FinalDashboard/FinalPresentation?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+I presented my analysis, findings and recommendations on Tableau, which can be seen [here](https://public.tableau.com/views/Task6_7_-FinalDashboard/FinalPresentation?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This storyboard doesn’t contain every step I took as part of the analysis — only those relevant to the final results.
 
