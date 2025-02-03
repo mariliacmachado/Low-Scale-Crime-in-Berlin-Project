@@ -1,10 +1,8 @@
 # Berlin Low-Scale Crime Analysis (2012–2019)
 ![Berliner_Polizei](https://github.com/user-attachments/assets/bc6e375b-e4e8-427d-99f9-bd8bc1ccc972)
-![CareerFoundry-fulllogo-white](https://github.com/user-attachments/assets/68115cf5-1edb-4981-82ce-168c3963a445)
-
 
 ## Project Summary  
-This project was completed as part of the CareerFoundry Data Analytics Program and focuses on analyzing low-scale crimes in Berlin from 2012 to 2019. The primary aim was to uncover patterns in crime trends, identify correlations between different types of crimes, and determine which districts in Berlin were most affected. Using Python and Excel, the analysis employed a range of techniques, including geospatial, regression, and cluster analysis, to derive actionable insights.  
+This project focuses on analyzing low-scale crimes in Berlin from 2012 to 2019. The primary aim was to uncover patterns in crime trends, identify correlations between different types of crimes, and determine which districts in Berlin were most affected. Using Python and Excel, the analysis employed a range of techniques, including geospatial, regression, and cluster analysis, to derive actionable insights.  
 
 ## Objectives  
 - **Trend Analysis**: Determine whether crime rates in Berlin increased or decreased during the study period.  
